@@ -840,7 +840,7 @@ def help_dialog():
     text.insert('1.0', """The Japanese Sudoku game generator, editor and solver for Windows and Linux.
 
 --- How to play ---
-I think I don't have to explain to you how sudoku works but rather how work with this application.
+I think I don't have to explain to you how sudoku works but rather how to work with this application.
 There are 3 different methods how to insert digits:
   1. LMB and Keypad
     Click with left mouse button on the desired cell, the cell should be in a yellow frame.
