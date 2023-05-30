@@ -4,6 +4,7 @@ The Japanese Sudoku game generator, editor and solver for Windows and Linux.
 
 ## tkinter GUI
 PySudoku runs on tkinter GUI library. Because of that, PySudoku is compatible with Windows and Linux.
+![](/screenshots/linux1.png)
 
 ## Realtime check and auto-solve
 You can turn on realtime check and the collinding cells will be highlighted. The level can also be automatically solved by the computer if you want to.
